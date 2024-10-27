@@ -1,0 +1,4 @@
+bonjour;2024/01/23 10:40 (par khaoula );khaoula.itro@ump.ac.ma
+Quelles sont les principales différences entre Java et Python en termes de syntaxe et de fonctionnalités ?;2024/02/04 08:00 (par khaoula);khaoula.itro@ump.ac.ma
+Quels sont les défis courants rencontrés lors de l'apprentissage de l'algorithmie et comment les surmonter ?;2024/02/04 08:00 (par orti);orti333@gmail.com
+Quelles ressources recommandez-vous pour se préparer à des compétitions de programmation telles que le Code Jam de Google ?;2024/02/04 08:01 (par noura);noura.allam@gmail.com

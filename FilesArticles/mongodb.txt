@@ -1,0 +1,38 @@
+<center><h1 style="padding: 10px 0px; color: #13283D;">Cours MongoDB</h1></center>
+<h2 style="padding: 10px 0px; color: #13283D;">MongoDB</h2>
+<p>
+    MongoDB est un système de gestion de base de données NoSQL, conçu pour stocker des données de manière flexible et évolutive.
+    Contrairement aux bases de données relationnelles traditionnelles, MongoDB utilise une structure de données de type document, 
+    où les données sont stockées au format JSON. Cela offre une grande flexibilité car les documents dans une collection MongoDB 
+    peuvent avoir des schémas différents, ce qui permet d'ajouter ou de modifier des champs sans avoir à modifier toute la base de données.
+    MongoDB est largement utilisé dans les applications web modernes, en raison de sa capacité à gérer de grandes quantités de données 
+    de manière efficace et de sa facilité d'utilisation pour les développeurs.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Créez votre première base de données MongoDB</h3>
+
+<p>
+    Dans cette section, nous allons découvrir les bases de MongoDB et créer notre première base de données !
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les collections et leurs documents</h3>
+
+<p>
+    MongoDB stocke des données dans des collections, qui sont similaires aux tables dans les bases de données relationnelles.
+    Chaque document dans une collection MongoDB est un enregistrement de données, stocké au format JSON.
+    Les collections et les documents peuvent être facilement créés, mis à jour et supprimés à l'aide des opérations MongoDB.
+</p>
+
+<h2 style="padding: 10px 0px; color: #13283D;">Fonctionnement de MongoDB</h2>
+
+<p>
+    MongoDB utilise un modèle de stockage de données flexible basé sur des documents JSON.
+    Les données sont stockées dans des collections, qui peuvent être considérées comme des équivalents de tables dans les bases de données relationnelles.
+    Chaque document dans une collection est un enregistrement de données au format JSON, offrant une flexibilité et une évolutivité sans précédent.
+</p>
+
+<h3 style="padding: 10px 0px; color: #13283D;">Les avantages de MongoDB</h3>
+<p>
+    MongoDB offre de nombreux avantages par rapport aux bases de données relationnelles traditionnelles, notamment une grande flexibilité, une évolutivité horizontale et une performance élevée.
+    Sa capacité à gérer des schémas dynamiques et des données non structurées en fait un choix populaire pour les applications modernes.
+</p>
